@@ -4,3 +4,10 @@ Endless runner with six tracks. Tracks are aligned into circle with their own gr
 Small project made in blueprints within 4 dayas using Directional & planetar gravity plugin.
 
 [![Gravity Runner v0.1](https://img.youtube.com/vi/td7aZrkqcT8/0.jpg)](https://www.youtube.com/watch?v=td7aZrkqcT8)
+
+# DevNotes
+## Gravity runner v0.1
+- Basic game concept: 6 tracks with their own gravity
+- 2 pickups
+  - Coin: suitable for purchasing upgrades/items
+  - Lock: locks camera on current gravity direction for 10 seconds
