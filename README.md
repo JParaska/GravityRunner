@@ -4,7 +4,7 @@ Endless runner with six tracks. Tracks are aligned into circle with their own gr
 Small project made in blueprints using Directional & planetar gravity plugin.
 Started as "what can be dan in one weekend".
 
-[![Gravity Runner v0.2.1](https://img.youtube.com/vi/wEfiddpz2I4/0.jpg)](https://www.youtube.com/watch?v=wEfiddpz2I4)
+[![Gravity Runner v0.2.1](https://img.youtube.com/vi/_8n55CXWVik/0.jpg)](https://www.youtube.com/watch?v=_8n55CXWVik)
 
 # DevNotes
 
